@@ -1,8 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: splash
+header:
+	overlay_color: "#f0f0f0"
+	# overlay_image: /
+	actions:
+    - label: "Test"
+      url: "https://github.com/"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 ---
 
 Hello world!
